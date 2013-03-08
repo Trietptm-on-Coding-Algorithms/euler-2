@@ -1,0 +1,12 @@
+%problem 1
+
+clc,clear %Makes things pretty
+
+tic
+for i=3:999
+if rem(i,3)==0 || rem
+end
+answer=sum(multi_3)+sum(multi_5);
+
+toc
+fprintf('\n%2.0f\n',answer)
